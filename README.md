@@ -1,2 +1,2 @@
 # advanced-email-bot
-An Advanced Email Sender bot with language translation feature
+The Advanced Email Sender is a powerful tool I created to streamline email management. It comes with a ton of features like sending emails with domain-specific translation (based on TLD), automatically deleting bounced or returned emails, and storing sent emails for easy reference. Plus, it has a sleek terminal interface that makes managing everything simple and efficient. It’s perfect for anyone who wants to handle large volumes of emails without the hassle of manual work.
