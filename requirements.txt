@@ -1,0 +1,6 @@
+googletrans==4.0.0-rc1
+PyYAML==5.4.1
+colorama==0.4.4
+art==5.3
+tqdm==4.62.3
+blessed

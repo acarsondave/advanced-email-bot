@@ -1,0 +1,61 @@
+email:
+  sender_name: "G&P Advisor Mortgage Expert"
+  sender_email: loans@wayfieldco.com
+  sender_password: 4F6647CC9CDA3A683E74A16DDB06488C6F6E
+  smtp_server: smtp.elasticemail.com
+  smtp_port: 2525
+  subject: "Last chance: Need Financing for Your Investments? We've Got You Covered!"
+  message: |
+    Hello {},
+
+    I hope this message finds you well.
+
+    My name is Hillard Germany, and I am part of the team at G&P Consultant Mortgage Expert, a trusted provider of creative financing solutions. We specialize in offering loans to both small and large businesses, including real estate ventures, with flexible terms tailored to your needs.
+
+    If you're in need of urgent financing for your investments, we're here to help. Our loans range from a minimum of $100,000,000.00 to a maximum of $600,000,000.00, with options for 100% financing, excluding additional expenses.
+
+    We understand that every situation is unique, and we're committed to finding solutions where other financial institutions may not. Whether you're looking to expand your business, invest in real estate, or pursue other opportunities, we have the expertise and resources to support you.
+
+    If you're interested in exploring your financing options further, please don't hesitate to contact us.
+
+    Best regards,
+
+    Hillard Germany
+    G&P Consultant Mortgage Expert
+    Farmington Hills, Michigan, USA
+  email_file_path: "emails.txt"
+  sent_emails_file_path: "sent_emails.txt"
+  reply_to: privateclients@wayfieldco.com  # Optional: specify reply-to email address
+  second_reply_to:
+  html_message: |
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Need Financing for Your Investments? We've Got You Covered!</title>
+    </head>
+    <body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+      <div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <h1 style="color: #333;">Need Financing for Your Investments? We've Got You Covered!</h1>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">Hello {},</p>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">I hope this message finds you well.</p>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">My name is Hillard Germany, and I am part of the team at G&P Consultant Mortgage Expert, a trusted provider of creative financing solutions. We specialize in offering loans to both small and large businesses, including real estate ventures, with flexible terms tailored to your needs.</p>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">If you're in need of urgent financing for your investments, we're here to help. Our loans range from a minimum of $100,000,000.00 to a maximum of $600,000,000.00, with options for 100% financing, excluding additional expenses.</p>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">We understand that every situation is unique, and we're committed to finding solutions where other financial institutions may not. Whether you're looking to expand your business, invest in real estate, or pursue other opportunities, we have the expertise and resources to support you.</p>
+        <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">If you're interested in exploring your financing options further, please don't hesitate to contact us.</p>
+        <div style="margin-top: 30px; border-top: 1px solid #ccc; padding-top: 20px;">
+          <p style="margin: 0;">Best regards,</p>
+          <p style="margin: 0;">Hillard Germany<br>G&P Consultant Mortgage Expert<br>Farmington Hills, Michigan, USA</p>
+        </div>
+        
+        <!-- Additional Text to Increase Email Size -->
+        <div style="margin-top: 30px;">
+          <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">Thank you for taking the time to read this message. We value your interest in our services and look forward to the opportunity to assist you with your financing needs. Our team is dedicated to providing exceptional support and ensuring a seamless experience for all our clients.</p>
+          <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">If you have any questions or would like to discuss your requirements in more detail, please feel free to reach out to us at your convenience. We're here to help you achieve your financial goals and realize your business aspirations.</p>
+          <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">Warm regards,</p>
+          <p style="color: #666; line-height: 1.6; margin-bottom: 20px;">The G&P Consultant Mortgage Expert Team</p>
+        </div>
+      </div>
+    </body>
+    </html>
